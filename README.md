@@ -1,4 +1,4 @@
-# Bintropy
+# Binping
 
 
 Its a lightweigh and simple tool which generates set of ordered png files where each png represents binary data of the file in each pixel.
